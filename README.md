@@ -4,6 +4,7 @@ Plot is a feature-rich web application that takes inspiration from Twitter, offe
 
 Key Features:
 
+
 User Authentication: Robust user authentication system to protect user accounts and data.
 
 Real-time Updates: Stay updated with real-time notifications and feeds.
@@ -20,6 +21,8 @@ Responsive Design: The application is built with responsiveness in mind, ensurin
 
 
 Technologies Used:
+
+
 MongoDB
 
 Express.js
@@ -34,6 +37,7 @@ API Integration
 
 
 Getting Started:
+
 
 Clone the repository to your local machine.
 
