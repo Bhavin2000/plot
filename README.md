@@ -48,4 +48,3 @@ Set up a MongoDB database and configure the connection in your project.
 Run the application using npm start or npm run dev or your preferred method.
 
 Access Plot in your browser and explore its features.
-
