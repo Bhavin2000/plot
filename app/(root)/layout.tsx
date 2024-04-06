@@ -29,7 +29,6 @@ export default function RootLayout({
       }}
     >
       <html lang='en'>
-        <meta name="google-site-verification" content="1EpbNQDkMSRVCSViQUNMDsbjRypZEQxSOnvXUtASB7w" />
         <body className={inter.className}>
           <Topbar />
 
