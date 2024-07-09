@@ -27,7 +27,6 @@ export default function RootLayout({
         }
       }}
     >
-      <SpeedInsights/>
       <html lang='en' className='h-screen flex items-center justify-center'>
         <body className={`${inter.className} bg-dark-1`}>{children}</body>
       </html>

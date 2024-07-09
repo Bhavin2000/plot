@@ -6,6 +6,8 @@ import Pagination from "@/components/shared/Pagination";
 
 import { fetchPosts } from "@/lib/actions/thread.actions";
 import { fetchUser } from "@/lib/actions/user.actions";
+import { SpeedInsights } from "@vercel/speed-insights/next"
+
 
 async function Home({
   searchParams,
@@ -25,6 +27,7 @@ async function Home({
 
   return (
     <>
+      <SpeedInsights/>
       <h1 className='head-text text-left'>Home</h1>
 
       <section className='mt-9 flex flex-col gap-10'>
